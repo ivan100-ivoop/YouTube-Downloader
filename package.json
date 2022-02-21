@@ -1,0 +1,16 @@
+{
+  "name": "YouTube-Downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.10.1"
+  }
+}
